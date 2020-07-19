@@ -1,0 +1,9 @@
+datasource:
+  host: hubdevdbserver8.mysql.database.azure.com
+  port: 3306
+  username: hubdevdbadmin@hubdevdbserver8
+  password: N=!#t!Sz4VMV?@cah_k*D3R7dpHMVuBbJD6RV5vY
+  tenants:
+    - tenant1
+    - tenant2
+    - tenant3
